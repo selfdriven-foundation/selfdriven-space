@@ -2,8 +2,10 @@
 layout: default
 title: Home
 ---
-- Physical
-- [Virtual](/virtual/)
-- Composed
+
+## Types
+- [Physical](/physical/) - Geographical
+- [Virtual](/virtual/) - Created
+- [Composed](/composed/) - Generated
 
 

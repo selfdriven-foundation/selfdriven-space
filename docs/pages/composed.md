@@ -1,0 +1,13 @@
+---
+layout: default
+title: Composed - selfdriven Spaces
+permalink: /composed/
+---
+
+### Composed – Generated Spaces
+
+**Spaces that emerge through composition, synthesis, or generation.**
+- AI-generated environments, simulations, or knowledge spaces.
+- Composed narratives, models, or frameworks that give structure to learning.
+- Hybrid layers that mix physical and virtual into new forms of interaction.
+- Spaces that “self-organide” around intent, activity, or community patterns.
