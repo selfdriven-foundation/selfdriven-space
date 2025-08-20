@@ -4,9 +4,9 @@ title: Virtual Cornucopias- selfdriven Spaces
 permalink: /virtual/cornucopias/
 ---
 
-## 🌌 Cornucopias: Metaverse Infrastructure for a Post-Singularity Civilisation
+## Cornucopias: Metaverse Infrastructure for a Post-Singularity Civilisation
 
-### 🧾 Executive Summary
+### Executive Summary
 
 Cornucopias is more than a game — it's a modular, blockchain-anchored simulation platform that can evolve into the foundation layer for identity, governance, and collective cognition in a post-singularity future. This paper explores how Cornucopias can support cognitive continuity, post-biological societies, and decentralized consensus through immersive, forkable worlds.
 
