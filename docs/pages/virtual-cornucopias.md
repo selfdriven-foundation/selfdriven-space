@@ -38,6 +38,7 @@ Cornucopias is more than a game — it's a modular, blockchain-anchored simulati
 - Autonomous economic agents coordinating via resource reputation graphs
 
 ### 4. Design Architecture
+
 | Layer                    | Function                                                                 |
 |-------------------------|--------------------------------------------------------------------------|
 | Core Engine             | Open physics, rendering, and simulation logic (Unity/Unreal-like layer)  |
