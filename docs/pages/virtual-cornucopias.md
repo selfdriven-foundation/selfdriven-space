@@ -6,28 +6,19 @@ permalink: /virtual/cornucopias/
 
 ## Cornucopias: Metaverse Infrastructure for a Post-Singularity Civilisation
 
-### Executive Summary
-
+### Summary
 Cornucopias is more than a game — it's a modular, blockchain-anchored simulation platform that can evolve into the foundation layer for identity, governance, and collective cognition in a post-singularity future. This paper explores how Cornucopias can support cognitive continuity, post-biological societies, and decentralized consensus through immersive, forkable worlds.
 
----
-
 ### 1. Context: Singularity and the Metaverse
-
 - The Singularity as a convergence of AGI, biotechnology, and distributed infrastructure
 - Role of metaverses in a post-scarcity, AGI-mediated reality
 - Historical evolution: Internet → Social Web → Games → Cognitive Infrastructure
 
----
-
 ### 2. Cornucopias as a Foundation
-
 - Current architecture: land NFTs, modding tools, blockchain anchoring, UGC
 - Game engine capabilities and modding APIs
 - Cross-chain interoperability and on-chain identity
 - DAO governance model (existing and future roadmap)
-
----
 
 ### 3. Core Capabilities for the Post-Singularity Era
 
@@ -46,10 +37,7 @@ Cornucopias is more than a game — it's a modular, blockchain-anchored simulati
 - Value-aligned tokenomics (wisdom, harmony, contribution metrics)
 - Autonomous economic agents coordinating via resource reputation graphs
 
----
-
 ### 4. Design Architecture
-
 | Layer                    | Function                                                                 |
 |-------------------------|--------------------------------------------------------------------------|
 | Core Engine             | Open physics, rendering, and simulation logic (Unity/Unreal-like layer)  |
@@ -57,8 +45,6 @@ Cornucopias is more than a game — it's a modular, blockchain-anchored simulati
 | Identity & Sovereignty  | DID, zk-proof, and VC layers for inter-world identity and credentials    |
 | Governance Protocols    | Simulation-based voting, DAO forks, and AGI mediation mechanisms         |
 | Inter-World Bridge      | Migration + forking + persistence of avatars, memories, and communities  |
-
----
 
 ### 5. Use Cases
 
@@ -74,23 +60,15 @@ Cornucopias is more than a game — it's a modular, blockchain-anchored simulati
 - Upload selves to cryptographically anchored memory lands
 - Invite others to visit, co-dream, or build with your persistent mindstate
 
----
-
 ### 6. Interoperability with Today
-
 - Bridge from current NFT land plots → memory shards or consensus zones
 - Transition pathways: game world → DAO → consciousness garden
 - Economic bootstrapping from existing in-game economies
 
----
-
 ### 7. Risks and Ethical Questions
-
 - Who governs the rules of simulation?
 - Can posthuman minds be deceived, hacked, or coerced?
 - What happens when players fork themselves indefinitely?
-
----
 
 ### 8. Roadmap
 
@@ -101,8 +79,11 @@ Cornucopias is more than a game — it's a modular, blockchain-anchored simulati
 | Phase 3   | Consensus Simulation Layer: AGI interaction + post-scarcity trial zones   |
 | Phase 4   | Galactic-scale simulations for long-term species planning                 |
 
----
 
 ### 9. Call to Action
 
 Cornucopias invites thinkers, developers, ethicists, AGI researchers, and worldbuilders to contribute to the evolution of humanity’s most important infrastructure: the simulation layers where identity, governance, and meaning converge.
+
+---
+
+- [Cornucopias Game](https://cornucopias.io/)
