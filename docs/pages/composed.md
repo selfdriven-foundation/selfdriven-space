@@ -10,4 +10,4 @@ permalink: /composed/
 - AI-generated environments, simulations, or knowledge spaces.
 - Composed narratives, models, or frameworks that give structure to learning.
 - Hybrid layers that mix physical and virtual into new forms of interaction.
-- Spaces that “self-organide” around intent, activity, or community patterns.
+- Spaces that “self-organise” around intent, activity, or community patterns.
