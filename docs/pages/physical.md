@@ -4,7 +4,7 @@ title: Physical - selfdriven Spaces
 permalink: /physical/
 ---
 
-### Physical – Geographical
+## Physical – Geographical
 
 **Spaces rooted in the real world.**
 - Locations where people gather, learn, and create.

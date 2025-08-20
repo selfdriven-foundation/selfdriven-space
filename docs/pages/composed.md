@@ -4,7 +4,7 @@ title: Composed - selfdriven Spaces
 permalink: /composed/
 ---
 
-### Composed – Generated Spaces
+## Composed – Generated Spaces
 
 **Spaces that emerge through composition, synthesis, or generation.**
 - AI-generated environments, simulations, or knowledge spaces.
