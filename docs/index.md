@@ -3,16 +3,18 @@ layout: default
 title: Home
 ---
 
-## Types
+# Communities happen everywhere
+
+### Types
 - [Physical](/physical/) - Geographical
 - [Virtual](/virtual/) - Created
 - [Composed](/composed/) - Generated
 
-## Modes
+### Modes
 - Self-Initiated
 - Community-Initiated
 
-## References
+### References
 - [selfdriven.fyi/spaces](https://selfdriven.fyi/spaces) - Growth happens everywhere.
 
 
