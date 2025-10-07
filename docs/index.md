@@ -13,6 +13,7 @@ title: Home
 ### Modes
 - Self-Initiated
 - Community-Initiated
+    - [The Third Place](https://en.wikipedia.org/wiki/Third_place)
 
 ### References
 - [selfdriven.fyi/spaces](https://selfdriven.fyi/spaces) - Growth happens everywhere.
