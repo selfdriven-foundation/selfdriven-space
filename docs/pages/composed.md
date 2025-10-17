@@ -15,3 +15,6 @@ permalink: /composed/
 ### Resources
 - [skillzeb.io Templates](https://skillzeb.io/)
 - [Deepmind Genie 3](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/)
+
+**Playing With Ideas**
+- [Infinity Rising (formerly Cornucopias), Metaverse Infrastructure for a Post-Singularity Civilisation](/composed/infinity-rising/)
