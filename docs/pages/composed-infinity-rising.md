@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Virtual Cornucopias- selfdriven Spaces
-permalink: /composed/cornucopias/
+title: Composed: Infinity Rising - selfdriven Spaces
+permalink: /composed/infinity-rising/
 ---
 
 ## Infinity Rising: Metaverse Infrastructure for a Post-Singularity Civilisation
@@ -86,8 +86,9 @@ Infinity Rising is more than a game — it's a modular, blockchain-anchored simu
 
 Infinity Rising invites thinkers, developers, ethicists, AGI researchers, and worldbuilders to contribute to the evolution of humanity’s most important infrastructure: the simulation layers where identity, governance, and meaning converge.
 
-### 10. References
+### 10. Resources
 - [Book: The Beginning of Infinity](https://en.wikipedia.org/wiki/The_Beginning_of_Infinity)
+- [selfdriven.network: Infra Interface](https://www.selfdriven.network/infra-interface/)
 
 ---
 
