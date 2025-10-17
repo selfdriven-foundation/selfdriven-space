@@ -12,6 +12,3 @@ permalink: /virtual/
 - Asynchronous: repositories, learning modules, collaborative documents.
 - Designed to extend reach, accessibility, and inclusivity.
 
-**Playing With Ideas**
-- [Cornucopias, Metaverse Infrastructure for a Post-Singularity Civilisation](/virtual/cornucopias/)
-

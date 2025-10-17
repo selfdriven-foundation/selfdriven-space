@@ -1,13 +1,14 @@
 ---
 layout: default
 title: Virtual Cornucopias- selfdriven Spaces
-permalink: /virtual/cornucopias/
+permalink: /composed/cornucopias/
 ---
 
-## Cornucopias: Metaverse Infrastructure for a Post-Singularity Civilisation
+## Infinity Rising: Metaverse Infrastructure for a Post-Singularity Civilisation
+*Formerly Cornucopias*
 
 ### Summary
-Cornucopias is more than a game — it's a modular, blockchain-anchored simulation platform that can evolve into the foundation layer for identity, governance, and collective cognition in a post-singularity future. This paper explores how Cornucopias can support cognitive continuity, post-biological societies, and decentralized consensus through immersive, forkable worlds.
+Infinity Rising is more than a game — it's a modular, blockchain-anchored simulation platform that can evolve into the foundation layer for identity, governance, and collective cognition in a post-singularity future. This paper explores how Cornucopias can support cognitive continuity, post-biological societies, and decentralized consensus through immersive, forkable worlds.
 
 ### 1. Context: Singularity and the Metaverse
 - The Singularity as a convergence of AGI, biotechnology, and distributed infrastructure
@@ -83,8 +84,8 @@ Cornucopias is more than a game — it's a modular, blockchain-anchored simulati
 
 ### 9. Call to Action
 
-Cornucopias invites thinkers, developers, ethicists, AGI researchers, and worldbuilders to contribute to the evolution of humanity’s most important infrastructure: the simulation layers where identity, governance, and meaning converge.
+Infinity Rising invites thinkers, developers, ethicists, AGI researchers, and worldbuilders to contribute to the evolution of humanity’s most important infrastructure: the simulation layers where identity, governance, and meaning converge.
 
 ---
 
-- [Cornucopias Game](https://cornucopias.io/)
+- [Infinity Rising](https://infinityrising.com/)
