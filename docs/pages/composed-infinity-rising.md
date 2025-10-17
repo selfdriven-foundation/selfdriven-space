@@ -86,6 +86,9 @@ Infinity Rising is more than a game — it's a modular, blockchain-anchored simu
 
 Infinity Rising invites thinkers, developers, ethicists, AGI researchers, and worldbuilders to contribute to the evolution of humanity’s most important infrastructure: the simulation layers where identity, governance, and meaning converge.
 
+### 10. References
+- [Book: The Beginning of Infinity](https://en.wikipedia.org/wiki/The_Beginning_of_Infinity)
+
 ---
 
 - [Infinity Rising](https://infinityrising.com/)
