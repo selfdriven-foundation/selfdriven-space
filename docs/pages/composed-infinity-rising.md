@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Composed: Infinity Rising - selfdriven Spaces
+title: Composed Infinity Rising - selfdriven Spaces
 permalink: /composed/infinity-rising/
 ---
 

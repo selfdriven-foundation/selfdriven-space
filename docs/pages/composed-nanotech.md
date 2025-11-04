@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Composed: Nano-Tech - selfdriven Spaces
+title: Composed Nano-Tech - selfdriven Spaces
 permalink: /composed/nanotech/
 ---
 
