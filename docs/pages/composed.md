@@ -18,3 +18,4 @@ permalink: /composed/
 
 **Playing With Ideas**
 - [Infinity Rising (formerly Cornucopias), Metaverse Infrastructure for a Post-Singularity Civilisation](/composed/infinity-rising/)
+- [Nanotech Composed (Generated) Spaces, The Analogy: Trees as Natural Nanotech](/composed/nanotech/)
