@@ -14,7 +14,7 @@ A tree is already a form of nanotechnology:
 
 So nature already does exactly what you’re describing — it’s just **carbon-based nanotech powered by biology**.
 
-## Synthetic Nanotech Today (2025 Reality)
+### Synthetic Nanotech Today (2025 Reality)
 
 We can already:
 - Build nanoscale structures atom-by-atom using *scanning tunneling microscopes*.
@@ -28,7 +28,7 @@ The main limitations are:
 - **Feedstock:** Air doesn’t contain the needed elements (e.g., no silicon, copper, or rare earths).  
 - **Control:** Molecular assemblers (the “universal constructors” envisioned by Eric Drexler in *Engines of Creation*) haven’t been realized — too unstable, complex, and error-prone at scale.
 
-## What’s Emerging
+### What’s Emerging
 
 We’re inching closer through hybrid approaches:
 - **Programmable matter:** Using metamaterials or modular microsystems that reconfigure under magnetic or electric fields.  
@@ -37,7 +37,7 @@ We’re inching closer through hybrid approaches:
 
 This is converging toward **“bio-nanotech manufacturing”** — where we *grow* complex devices or materials rather than assemble them.
 
-## The Far Future: From Seed to Any Object
+### The Far Future: From Seed to Any Object
 
 The “seed that grows into anything” vision — like in *Star Trek* replicators or *gray goo* scenarios — would require:
 1. **Atomic-level control** of matter.  
@@ -46,7 +46,7 @@ The “seed that grows into anything” vision — like in *Star Trek* replicato
 
 It’s **theoretically possible** under physics — atoms are atoms — but practically we’re centuries (or a few radical breakthroughs) away.
 
-## Summary
+### Summary
 
 | Concept | Status | Notes |
 |----------|---------|-------|
@@ -56,13 +56,11 @@ It’s **theoretically possible** under physics — atoms are atoms — but prac
 | Bio-inspired growth of devices | Emerging | Synthetic biology + AI design |
 | “Seed creates object from air” | Science fiction (for now) | Plausible in principle, not feasible yet |
 
----
+## Seed-to-Anything Nanotech
 
-# Seed-to-Anything Nanotech
+**How we might evolve from trees and enzymes to programmable matter that can grow any object from air and sunlight.**
 
-### How we might evolve from trees and enzymes to programmable matter that can grow any object from air and sunlight.
-
-## 🧭 Timeline of Plausibility — “Seed to Anything” Nanotech
+### Timeline of Plausibility — “Seed to Anything” Nanotech
 
 | Era | Approx. Timeframe | Stage | Description |
 |------|------------------|--------|--------------|
@@ -75,8 +73,7 @@ It’s **theoretically possible** under physics — atoms are atoms — but prac
 > ⚠️ Each stage depends on breakthroughs in **energy efficiency, error correction, atomic positioning, and AI design**.  
 > Biological pathways will likely dominate the first 100 years before true mechanosynthetic nanotech takes over.
 
-
-## Likely Pathways
+### Likely Pathways
 
 ### 1. **Biological Route**
 - Engineering plants, fungi, or bacteria to *grow* materials.  
@@ -92,7 +89,7 @@ It’s **theoretically possible** under physics — atoms are atoms — but prac
 - Biological base for *energy and growth*, mechanical or electronic overlays for *precision and control*.  
 - AI directs material assembly like an ecosystem manager.
 
-## 🧠 Philosophical Note
+### Philosophical Note
 
 At the end of this progression, *technology* and *biology* blur completely —  
 the seed becomes a universal compiler of form, drawing matter and energy from the environment.  
@@ -100,7 +97,7 @@ the seed becomes a universal compiler of form, drawing matter and energy from th
 In that world, **manufacturing** is indistinguishable from **cultivation**.  
 We wouldn’t build objects — we’d *grow realities.*
 
-## Summary
+### Summary
 
 | Concept | Status | Notes |
 |----------|---------|-------|
