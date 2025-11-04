@@ -4,7 +4,7 @@ title: Composed: Nano-Tech - selfdriven Spaces
 permalink: /composed/nanotech/
 ---
 
-# Nanotech Composed (Generated) Spaces
+# Nanotech Composed/Generated Spaces
 
 ## The Analogy: Trees as Natural Nanotech
 
