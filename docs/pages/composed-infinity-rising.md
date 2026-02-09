@@ -8,14 +8,14 @@ permalink: /composed/infinity-rising/
 *Formerly Cornucopias*
 
 ### Summary
-Infinity Rising is more than a game — it's a modular, blockchain-anchored simulation platform that can evolve into the foundation layer for identity, governance, and collective cognition in a post-singularity future. This paper explores how Cornucopias can support cognitive continuity, post-biological societies, and decentralized consensus through immersive, forkable worlds.
+Infinity Rising is more than a game — it's a modular, blockchain-anchored simulation platform that can evolve into the foundation layer for identity, governance, and collective cognition in a post-singularity future. This paper explores how Infinity Rising can support cognitive continuity, post-biological societies, and decentralized consensus through immersive, forkable worlds.
 
 ### 1. Context: Singularity and the Metaverse
 - The Singularity as a convergence of AGI, biotechnology, and distributed infrastructure
 - Role of metaverses in a post-scarcity, AGI-mediated reality
 - Historical evolution: Internet → Social Web → Games → Cognitive Infrastructure
 
-### 2. Cornucopias as a Foundation
+### 2. Infinity Rising as a Foundation
 - Current architecture: land NFTs, modding tools, blockchain anchoring, UGC
 - Game engine capabilities and modding APIs
 - Cross-chain interoperability and on-chain identity
@@ -87,6 +87,7 @@ Infinity Rising is more than a game — it's a modular, blockchain-anchored simu
 Infinity Rising invites thinkers, developers, ethicists, AGI researchers, and worldbuilders to contribute to the evolution of humanity’s most important infrastructure: the simulation layers where identity, governance, and meaning converge.
 
 ### 10. Resources
+
 - [Book: The Beginning of Infinity](https://en.wikipedia.org/wiki/The_Beginning_of_Infinity)
 - [selfdriven.network: Infra Interface](https://www.selfdriven.network/infra-interface/)
 
