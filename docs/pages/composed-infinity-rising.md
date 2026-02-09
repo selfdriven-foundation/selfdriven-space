@@ -9,9 +9,7 @@ permalink: /composed/infinity-rising/
 
 *A thought start in regards to the emerging Infinity Rising game.  We have no formal affiliation with the Infinity Rising team - other than being long term supporters and believers in the project!*
 
-### Summary
-
-Infinity Rising is more than a game — it's a modular, blockchain-anchored simulation platform that can evolve into the foundation layer for identity, governance, and collective cognition in a post-singularity future. This paper explores how Infinity Rising can support cognitive continuity, post-biological societies, and decentralized consensus through immersive, forkable worlds.
+**Infinity Rising is more than a game — it's a modular, blockchain-anchored simulation platform that can evolve into the foundation layer for identity, governance, and collective cognition in a post-singularity future. This paper explores how Infinity Rising can support cognitive continuity, post-biological societies, and decentralized consensus through immersive, forkable worlds.**
 
 ### 1. Context: Singularity and the Metaverse
 
