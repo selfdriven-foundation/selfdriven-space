@@ -8,7 +8,7 @@ permalink: /physical/
 
 **Spaces where people gather, learn, create, grow and live.**
 
-- [Outer Space](/physical/outer-space)
+- [Lunar & Deep Space](/physical/outer-spaces)
 
 ### References
 - [Frameworks](/frameworks/) - e.g. the 1st, 2nd, 3rd space.

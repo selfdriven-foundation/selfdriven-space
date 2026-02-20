@@ -1,18 +1,21 @@
 ---
 layout: default
 title: Physical - Outerspace - selfdriven Spaces
-permalink: /physical/outer-space
+permalink: /physical/outer-spaces
 ---
 
-# selfdriven, Lunar and Deep-Space Colonisation  
-## An Identity-First, AI-Native, Cooperative Operating Model for Off-Earth Civilisation
+# Outer-Spaces
+
+## selfdriven, Lunar and Deep-Space Colonisation
+
+**An Identity-First, AI-Native, Cooperative Operating Model for Off-Earth Civilisation**
 
 ---
 
 ## Abstract  
 As humanity transitions from orbital missions to permanent settlements on the Moon and, later, Mars and deep-space habitats, the central challenge shifts from propulsion to coordination. Space colonisation introduces latency, isolation, resource scarcity, governance fragility, and operational entropy. Traditional Earth-based institutional models—centralised, compliance-heavy, and geographically anchored—do not scale to autonomous off-world environments.
 
-This paper proposes that **selfdriven**—identity-first, proof-native, AI-assisted, and cooperative by design—provide a viable socio-technical operating system for extraterrestrial settlements. Beginning with lunar outposts and extending to deep-space colonies, the framework enables self-actuating communities where humans act as conductors, AI agents perform operational work, and trust is engineered through verifiable credentials, decentralised identity, and cryptographic proofs.
+This paper proposes that selfdriven identity-first, proof-native, AI-assisted, and cooperative by design—provide a viable socio-technical operating system for extraterrestrial settlements. Beginning with lunar outposts and extending to deep-space colonies, the framework enables self-actuating communities where humans act as conductors, AI agents perform operational work, and trust is engineered through verifiable credentials, decentralised identity, and cryptographic proofs.
 
 ---
 
@@ -43,7 +46,7 @@ selfdrivens align directly with this requirement by treating governance, identit
 
 ---
 
-## 2. The selfdriven as a Space-Native Operating System  
+## 2. The selfdriven as a Space-Native Organisational System  
 
 ### 2.1 Core Design Principles  
 selfdrivens are structurally compatible with space environments because they are:
