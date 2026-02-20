@@ -6,7 +6,7 @@ title: Home
 # Space for Communities
 
 ## Types
-- [Physical](/physical/) - Geographical, Living, Biological
+- [Physical](/physical/) - Geographical (Earth, Near Space, Outer Space), Living, Biological
 - [Virtual](/virtual/) - Created
 - [Composed](/composed/) - Generated
 
