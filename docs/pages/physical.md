@@ -8,6 +8,8 @@ permalink: /physical/
 
 **Spaces where people gather, learn, create, grow and live.**
 
+- [Outer Space](/physical/outer-space)
+
 ### References
 - [Frameworks](/frameworks/) - e.g. the 1st, 2nd, 3rd space.
 - [Earthship Housing](https://en.wikipedia.org/wiki/Earthship)
