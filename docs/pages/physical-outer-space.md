@@ -4,7 +4,7 @@ title: Physical - Outerspace - selfdriven Spaces
 permalink: /physical/outer-space
 ---
 
-# Selfdriven Frameworks for Lunar and Deep-Space Colonisation  
+# selfdriven, Lunar and Deep-Space Colonisation  
 ## An Identity-First, AI-Native, Cooperative Operating Model for Off-Earth Civilisation
 
 ---
@@ -12,7 +12,7 @@ permalink: /physical/outer-space
 ## Abstract  
 As humanity transitions from orbital missions to permanent settlements on the Moon and, later, Mars and deep-space habitats, the central challenge shifts from propulsion to coordination. Space colonisation introduces latency, isolation, resource scarcity, governance fragility, and operational entropy. Traditional Earth-based institutional models—centralised, compliance-heavy, and geographically anchored—do not scale to autonomous off-world environments.
 
-This paper proposes that **selfdriven Frameworks**—identity-first, proof-native, AI-assisted, and cooperative by design—provide a viable socio-technical operating system for extraterrestrial settlements. Beginning with lunar outposts and extending to deep-space colonies, the framework enables self-actuating communities where humans act as conductors, AI agents perform operational work, and trust is engineered through verifiable credentials, decentralised identity, and cryptographic proofs.
+This paper proposes that **selfdriven**—identity-first, proof-native, AI-assisted, and cooperative by design—provide a viable socio-technical operating system for extraterrestrial settlements. Beginning with lunar outposts and extending to deep-space colonies, the framework enables self-actuating communities where humans act as conductors, AI agents perform operational work, and trust is engineered through verifiable credentials, decentralised identity, and cryptographic proofs.
 
 ---
 
@@ -39,14 +39,14 @@ Therefore, colonies must be:
 - Proof-driven  
 - Operationally autonomous  
 
-Selfdriven frameworks align directly with this requirement by treating governance, identity, and coordination as infrastructure rather than policy overlays.
+selfdrivens align directly with this requirement by treating governance, identity, and coordination as infrastructure rather than policy overlays.
 
 ---
 
-## 2. The Selfdriven Framework as a Space-Native Operating System  
+## 2. The selfdriven as a Space-Native Operating System  
 
 ### 2.1 Core Design Principles  
-Selfdriven frameworks are structurally compatible with space environments because they are:
+selfdrivens are structurally compatible with space environments because they are:
 
 | Principle | Relevance to Space Colonisation |
 |----------|----------------------------------|
@@ -175,7 +175,7 @@ This removes bureaucratic latency and replaces it with machine-verifiable operat
 Mars communication delays (up to 24 minutes round-trip) eliminate real-time control from Earth.  
 Colonies must function as autonomous civilisation nodes.
 
-Selfdriven frameworks support this through:
+selfdrivens support this through:
 - Local governance autonomy
 - Distributed AI orchestration layers
 - Cryptographic trust systems instead of central oversight
@@ -231,7 +231,7 @@ And toward:
 - Proof-native societal structures  
 
 In high-latency, high-risk environments, trust becomes the scarcest resource.  
-Selfdriven frameworks position trust as engineered infrastructure rather than social assumption.
+selfdrivens position trust as engineered infrastructure rather than social assumption.
 
 ---
 
@@ -266,6 +266,6 @@ Selfdriven frameworks position trust as engineered infrastructure rather than so
 ## 13. Conclusion  
 Space colonisation is not solely an engineering frontier—it is a governance and coordination frontier. Lunar bases, Martian colonies, and deep-space habitats will require systems that are autonomous, verifiable, cooperative, and AI-native.
 
-Selfdriven Frameworks—grounded in decentralised identity, proof-of-activity economics, AI orchestration, and cooperative governance—offer a credible blueprint for off-Earth civilisation. Where Earth relied on institutions built for abundance and proximity, space settlements will depend on self-actuating communities, identity-rooted trust, and AI-assisted coordination under extreme constraint.
+selfdrivens—grounded in decentralised identity, proof-of-activity economics, AI orchestration, and cooperative governance—offer a credible blueprint for off-Earth civilisation. Where Earth relied on institutions built for abundance and proximity, space settlements will depend on self-actuating communities, identity-rooted trust, and AI-assisted coordination under extreme constraint.
 
 As humanity evolves into a multi-planetary species, the defining infrastructure will not only be rockets or habitats, but resilient trust systems capable of functioning without Earth-based oversight.
