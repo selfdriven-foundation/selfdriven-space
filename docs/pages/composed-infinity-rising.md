@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: selfdriven
 title: Composed Infinity Rising - selfdriven Spaces
-permalink: /composed/infinity-rising/
+permalink: /composed/infinity-rising
 ---
 
 ## Infinity Rising: Metaverse Infrastructure for a Post-Singularity Civilisation

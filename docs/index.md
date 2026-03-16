@@ -1,14 +1,14 @@
 ---
-layout: default
-title: Home
+layout: selfdriven
+title: selfdriven Space
 ---
 
 # Space for Communities
 
 ## Types
-- [Physical](/physical/) - Geographical (Earth, Near Space, Outer Space), Living, Biological
-- [Virtual](/virtual/) - Created
-- [Composed](/composed/) - Generated
+- [Physical](/physical) - Geographical (Earth, Near Space, Outer Space), Living, Biological
+- [Virtual](/virtual) - Created
+- [Composed](/composed) - Generated
 
 ## Modes
 - Self-Initiated
@@ -17,4 +17,4 @@ title: Home
 
 ## References
 - [selfdriven.fyi/spaces](https://selfdriven.fyi/spaces) - Growth happens everywhere.
-- [Frameworks](/frameworks/) - e.g. the 1st, 2nd, 3rd space.
+- [Frameworks](/frameworks) - e.g. the 1st, 2nd, 3rd space.

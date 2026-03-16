@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: selfdriven
 title: Composed Nano-Tech - selfdriven Spaces
-permalink: /composed/nanotech/
+permalink: /composed/nanotech
 ---
 
 # Nanotech Composed/Generated Spaces

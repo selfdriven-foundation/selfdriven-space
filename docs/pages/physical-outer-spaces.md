@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 title: Physical - Outerspace - selfdriven Spaces
 permalink: /physical/outer-spaces
 ---

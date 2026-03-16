@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: selfdriven
 title: Virtual - selfdriven Spaces
-permalink: /virtual/
+permalink: /virtual
 ---
 
 ## Virtual - Created Spaces

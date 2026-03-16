@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: selfdriven
 title: Frameworks
-permalink: /frameworks/
+permalink: /frameworks
 ---
 
 # Frameworks

@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: selfdriven
 title: Composed - selfdriven Spaces
-permalink: /composed/
+permalink: /composed
 ---
 
 ## Composed – Generated Spaces
@@ -13,11 +13,11 @@ permalink: /composed/
 - Spaces that “self-organise” around intent, activity, or community patterns.
 
 ### Resources
-- [skillzeb.io Templates](https://skillzeb.io/)
+- [skillzeb.io Templates](https://skillzeb.io)
 - [Deepmind Genie 3](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/)
 - [Marble World Model](https://marble.worldlabs.ai)
 - [SIMA 2, DeepMind](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/)
 
 **Playing With Ideas**
-- [Infinity Rising (formerly Cornucopias), Metaverse Infrastructure for a Post-Singularity Civilisation](/composed/infinity-rising/)
-- [Nanotech Composed (Generated) Spaces, The Analogy; Trees as Natural Nanotech](/composed/nanotech/)
+- [Infinity Rising (formerly Cornucopias), Metaverse Infrastructure for a Post-Singularity Civilisation](/composed/infinity-rising)
+- [Nanotech Composed (Generated) Spaces, The Analogy; Trees as Natural Nanotech](/composed/nanotech)

@@ -1,7 +1,9 @@
 title: "selfdriven"
-description: "Helping communities self-actuate"
+description: "Space for communities to self-actuate"
 baseurl: ""
 url: ""
+context: "space"
+repo: "selfdriven-space"
 theme: minima
 plugins:
   - jekyll-feed
