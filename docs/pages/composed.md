@@ -17,6 +17,7 @@ permalink: /composed
 - [Deepmind Genie 3](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/)
 - [Marble World Model](https://marble.worldlabs.ai)
 - [SIMA 2, DeepMind](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/)
+- [Claude Code, Game Studio](https://github.com/Donchitos/Claude-Code-Game-Studios)
 
 **Playing With Ideas**
 - [Infinity Rising (formerly Cornucopias), Metaverse Infrastructure for a Post-Singularity Civilisation](/composed/infinity-rising)
