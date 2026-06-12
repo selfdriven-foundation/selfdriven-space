@@ -1,9 +1,3 @@
----
-layout: selfdriven
-title: Physical - Outerspace - selfdriven Spaces
-permalink: /physical/outer-spaces
----
-
 # Outer-Spaces
 
 ## selfdriven, Lunar and Deep-Space Colonisation
