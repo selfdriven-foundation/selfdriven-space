@@ -402,4 +402,5 @@ h1 em,h2 em{font-style:normal;color:var(--orange)}
 	.logo img.logo-space{height:32px}
 	.footer-left img.logo-space{height:28px}
 	.layer-list.two{grid-template-columns:1fr}
+	.hero-art{min-height:440px}
 }
